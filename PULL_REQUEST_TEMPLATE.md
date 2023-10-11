@@ -1,11 +1,11 @@
 Tecnología
- []HTML
- []CSS3
- []docs
+ [ ]HTML
+ [ ]CSS3
+ [ ]docs
 Seleccione el tipo de actividad
- []Feature
+ [ ]Feature
  [x]Changes
- []Hotfix
- []Refactor
- []Performance
- []Testing
+ [ ]Hotfix
+ [ ]Refactor
+ [ ]Performance
+ [ ]Testing
